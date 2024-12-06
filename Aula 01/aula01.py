@@ -1,0 +1,6 @@
+print('Tudo dá certo pra mim até quando não foi como eu quis')
+print('mais uma semana começou, então arrume-se comigo')
+print('nós é requisitada seja onde for')
+print('seu muito pra mim é poco')
+print('cachorras kamikaze capturando la plata')
+print('esses cara é emocionado, dos desejos é refem e escravo')
